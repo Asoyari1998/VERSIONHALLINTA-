@@ -3,4 +3,5 @@ tomaatti
 suola
 sokeri
 kurkku
-
+kokis
+peruna
