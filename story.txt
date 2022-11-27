@@ -1,8 +1,4 @@
 First line changed!
 skldjfklsdf
 sdfjsdkf
-<<<<<<< Updated upstream
 Last Line Changed!
-=======
-Last line Changed!
->>>>>>> Stashed changes
