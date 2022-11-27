@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 first line changed
+=======
+First line changed!
+>>>>>>> 800fc58714bb59fb1ee18d7701174eeafcd9dabc
 skldjfklsdf
 sdfjsdkf
 sdfsdlkjfsk
